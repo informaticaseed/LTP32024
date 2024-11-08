@@ -1,4 +1,4 @@
-## Projetos Finais de Orientação a Objetos: Desafios Práticos para seus Alunos!
+## Projetos Finais de Orientação a Objetos
 
 **Objetivo:** Aplicar os conceitos de Programação Orientada a Objetos (POO) em projetos práticos, modelando diagramas de classe e implementando soluções em linguagem de programação de sua preferência.
 
