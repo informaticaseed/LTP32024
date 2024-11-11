@@ -6,7 +6,8 @@ Criar um sistema simples para uma clínica veterinária que gerencie pets e seus
 
 ### Exemplo de Diagrama
 
-![[https://github.com/informaticaseed/LTP32024/blob/main/Atividades%20de%20Programa%C3%A7%C3%A3o/Sistema%20Pet.drawio.png?raw=true]]
+
+![[https://raw.githubusercontent.com/informaticaseed/LTP32024/refs/heads/main/Atividades%20de%20Programa%C3%A7%C3%A3o/Pet.png]]
 
 Exemplo de Implementação em Java
 
@@ -66,7 +67,7 @@ Atividade 2: Sistema de E-commerce
 
 Desenvolver um sistema básico de e-commerce com produtos, carrinho e pedidos.
 
-![[https://github.com/informaticaseed/LTP32024/blob/main/Atividades%20de%20Programa%C3%A7%C3%A3o/Sistema%20ecomerce.png?raw=true]]
+![[https://github.com/informaticaseed/LTP32024/blob/main/Atividades%20de%20Programa%C3%A7%C3%A3o/Ecomerce.png?raw=true]]
 
 Exemplo de Implementação
 
@@ -121,7 +122,7 @@ public class Carrinho {
 
 Implementar um sistema bancário básico com diferentes tipos de contas e transações.
 
-![[Sistema bancário.png]]
+![[https://github.com/informaticaseed/LTP32024/blob/main/Atividades%20de%20Programa%C3%A7%C3%A3o/Banc%C3%A1rio.png?raw=true]]
 
 Atividades
 
